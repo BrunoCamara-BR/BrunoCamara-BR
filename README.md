@@ -3,11 +3,11 @@
 ## Bem-vindo(a) ao perfil do BrunoCamara-BR 😁
 
 <a href="https://github.com/BrunoCamara-BR" target="_blank">
-  <img height="180em"
-    src="https://github-readme-stats-bruno-camara.vercel.app/api?username=BrunoCamara-BR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em"
-    src="https://github-readme-stats-bruno-camara.vercel.app/api/top-langs/?username=BrunoCamara-BR&layout=compact&langs_count=6&theme=tokyonight"/>
+<img height="180em"
+  src="https://github-readme-stats-bruno-camara.vercel.app/api?username=BrunoCamara-BR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em"
+  src="https://github-readme-stats-bruno-camara.vercel.app/api/top-langs/?username=BrunoCamara-BR&layout=compact&langs_count=6&theme=tokyonight"/>
 </a>
 
 <br><br>
