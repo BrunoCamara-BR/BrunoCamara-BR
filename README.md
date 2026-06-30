@@ -4,10 +4,10 @@
 
 <a href="https://github.com/BrunoCamara-BR" target="_blank">
 <img height="180em"
-  src="https://github-readme-stats-bruno-camara.vercel.app/api?username=BrunoCamara-BR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  src="https://github-readme-stats-bruno-camara.vercel.app/api?username=BrunoCamara-BR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=60"/>
 
 <img height="180em"
-  src="https://github-readme-stats-bruno-camara.vercel.app/api/top-langs/?username=BrunoCamara-BR&layout=compact&langs_count=6&theme=tokyonight"/>
+  src="https://github-readme-stats-bruno-camara.vercel.app/api/top-langs/?username=BrunoCamara-BR&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=60"/>
 </a>
 
 <br><br>
